@@ -151,6 +151,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 | Vue Crash Course                                           | 1h 50m | https://youtu.be/qZXt1Aom3Cs |
 | Vue3 Crash Course                                          | 2h 57m | https://youtu.be/ZqgiuPt5QZo |
 | Svelte Crash Course                                        | 1h 21m | https://youtu.be/3TVy6GdtNuQ |
+| Vue.js Crash Course                                       | 1h 21m | https://youtu.be/VeNfHj6MhgA?si=CE3wxFzATLQM4GEw|
 
 ### Build Projects with existing frameworks
 
